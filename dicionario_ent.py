@@ -18,10 +18,10 @@ dicio_palavras = {
     "Cod" : ["CODIGO", "codigo", "Codigo"],
     "-E" : ["entrega", "Entrega", "ENTREGA"],
     "-I" : ["imovel", "Imovel", "IMOVEL"],
-    "Desc" : ["Descricao", "descricao"],
-    "Vlr" : ["Valor", "valor"],
-    "Msg" : ["Mensagem", "mensagem"],
-    "Nro" : ["Numero"],
-    "Inscr": ["Inscricao", "inscricao"],
-    "Compl": ["Complemento", "complemento"]
+    "Desc" : ["Descricao", "descricao", "DESCRICAO"],
+    "Vlr" : ["Valor", "valor", "VALOR"],
+    "Msg" : ["Mensagem", "mensagem", "MENSAGEM"],
+    "Nro" : ["Numero", "NUMERO", "numero"],
+    "Inscr": ["Inscricao", "inscricao", "INSCRICAO"],
+    "Compl": ["Complemento", "complemento", "COMPLEMENTO"]
 }
