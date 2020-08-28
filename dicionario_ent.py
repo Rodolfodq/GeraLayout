@@ -11,13 +11,13 @@ dicio_letras = {
     "I" : ["Í", "Î"],
     "O" : ["Ò", "Ó", "Ô", "Õ"],
     "U" : ["Ú"],
-    "" : ["(", ")", "/"]  
+    "" : ["(", ")", "/", ";"]  
 }
 
 dicio_palavras = {  
     "Cod" : ["CODIGO", "codigo", "Codigo"],
-    "-E" : ["entrega", "Entrega", "ENTREGA"],
-    "-I" : ["imovel", "Imovel", "IMOVEL"],
+    "-E" : ["entrega", "Entrega", "ENTREGA", "Correspondencia", "CORRESPONDENCIA", "correspondencia", "correnpondencia"],
+    "-I" : ["imovel", "Imovel", "IMOVEL", "estabelecimento", "Estabelecimento"],
     "Desc" : ["Descricao", "descricao", "DESCRICAO"],
     "Vlr" : ["Valor", "valor", "VALOR"],
     "Msg" : ["Mensagem", "mensagem", "MENSAGEM"],
